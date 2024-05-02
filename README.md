@@ -9,3 +9,5 @@ Hi, there! I'm pinylin.
 🔭 Know a little something about Databases
 
 ### Tutorials
+
+- [Blog](https://pinylin.github.io)
